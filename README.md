@@ -64,7 +64,7 @@ https://github.com/iCrawl/discord-vscode/issues/85#issuecomment-417895483
 
 ## Author
 
-**Discord Presence** © [iCrawl](https://github.com/iCrawl).  
-Authored and maintained by iCrawl.
+**Discord Presence** © [iCrawl](https://github.com/iCrawl).   [@x3089](https://github.com/x3089)
+Authored and maintained by iCrawl and x3089
 
-> GitHub [@iCrawl](https://github.com/iCrawl)
+> GitHub [@iCrawl](https://github.com/iCrawl) and [@x3089](https://github.com/x3089)
